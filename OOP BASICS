@@ -1,0 +1,30 @@
+WHAT IS OOP?
+
+Object Oriented Programming is a computer programming model that organizes software design around data, or objects, rather than function and logic
+
+WHAT IS THE STRUCTURE OF OOP?
+
+CLASSES - Are user defined data types that act as the blueprint.
+OBJECTS - Are instances of a class created with specifically defined data.
+METHODS - A block of code which only runs when it is called.
+ATTRIBUTES - Represents the state of and object. in other words, they are the characteristics that distinguish classes.
+
+PRICIPLES OF OOP
+
+ENCAPSULATION - All important information is contained inside an object
+ABSTRACTION - Exposing only the necessary information to the user.
+INHERITANCE - Can reuse code and properties from other classes.
+POLYMORPHISM - It facilitates flexibility and the ability to define methods in multiple forms.
+
+
+BENEFITS OF OOP
+
+MODULARITY - Making troubleshooting and collaborative development faster.
+REUSABILITY - Code can be reused, Does not need to write the same code multiple times.
+PRODUCTIVITY - Can construct new programs quickly through the use of multiple libraries
+EASILY UPGRADABLE - Can implement system functionalities independently 
+INTERFACE DESCRIPTIONS - Interfaces are points of communication between different components of an application or system. They can also define interactions between a hardware device, software program and a user.
+SECURITY - 
+FLEXIBILITY -
+CODE MAINTENANCE -
+LOWER COST - 
