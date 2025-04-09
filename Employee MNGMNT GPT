@@ -12,8 +12,7 @@ class Employee {
         this.name = name;
         this.salary = salary;
         this.position = position;
-    }   //ang meaning ng THIS. ay this is a special keyword that refers to the current object (instance) of the class. 
-       It's used to tell the program: "I mean the variable in this object, not a temporary variable or the one from the method." (This helps avoid confusion when variable names are the same!)
+    }   //ang meaning ng THIS. "Ang tinutukoy ko ay ang variable ng object na ito, hindi ang temporaryong variable o yung nasa loob ng method."
 
     public int getEmployeeID() {         // Getter and Setter methods for employeeID
         return employeeID;
